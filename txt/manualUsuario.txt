@@ -1,0 +1,19 @@
+*********************************************************************************
+* MANUAL DE USUARIO								*
+*										*
+* Calculadora									*
+*										*
+* -Realiza las funciones aritméticas básicas haciendo click en los botones.	*
+*										*
+* -La opción NUEVO del menu OPCIONES permite reiniciar la calculadora para 	*
+*  realizar un nuevo calculo y al mismo tiempo registrar la operacion para	*
+*  posteriormente poder ser consultada.						*
+*										*
+* -El boton C tiene la misma funcion de la opcion NUEVO ubicado en el menu	*
+*  de OPCIONES, guardando el registro y reiniciando la calculadora.		*
+*										*
+* -La opcion HISTORIAL muestra el registro de las operaciones realizadas en	*
+*  la calculadora.								*
+*										*
+* -La opcion AYUDA muestra el manual de usuario.				*
+*********************************************************************************

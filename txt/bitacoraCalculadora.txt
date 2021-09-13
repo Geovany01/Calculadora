@@ -1,0 +1,24 @@
+Nuevo
+4-2 = 2
+Nuevo
+8*9 = 72
+Nuevo
+8*8 = 64
+Nuevo
+12-1 = 11
+Nuevo
+11*11 = 121
+Nuevo
+5+5 = 10
+Nuevo
+78-2 = 76
+Nuevo
+48*2 = 96
+Nuevo
+78*4 = 312
+Nuevo
+76/2 = 38
+Nuevo
+47*8 = 376
+Nuevo
+79*3 = 237
